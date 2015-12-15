@@ -1,0 +1,19 @@
+/*GeolocationDemo.css*/
+
+/* Create Button*/
+
+.button {
+    display: inline-block;
+    position: relative;
+    margin: 10px;
+    padding: 0 20px;
+    text-align: center;
+    text-decoration: none;
+    font: bold 12px/25px Arial, sans-serif;
+}
+ /* Make Button Blue */
+ 
+.blue {
+    color: #19667d;
+    background: #70c9e3;
+}
